@@ -1,3 +1,3 @@
 # My site
 
-Your site is live at https://poludin.github.io/
+Your site is live at https://poludin.github.io/ {target="_blank"}
